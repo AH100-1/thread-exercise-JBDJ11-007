@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise-step1-1-counter-by-main-thread" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise-step1-1-counter-by-main-thread-with-daemon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise-step1-2-counter-by-thread" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise-step1-3-counter-by-runable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise-step1-4-counter-multi-thread" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise-step1-5-counter-join-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise-step1-7-counter-yield" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise-step1-8-counter-interrupt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise-step1-9-counter-wait-notify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise-step2-1-race-condition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise-step2-2-semaphore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/exercise-step2-3-mutex" vcs="Git" />
+  </component>
+</project>
